@@ -19,7 +19,7 @@ void myprint(const char *fmt, ...)
     va_end(ap);
 }
 
-void test()
+void test(void)
 {
     myprint("number = %d\n", 6);
     // warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]
