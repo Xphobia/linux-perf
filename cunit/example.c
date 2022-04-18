@@ -1,7 +1,3 @@
-//
-// Created by Xphobia on 2022/4/18.
-//
-
 /*
  *  Simple example of a CUnit unit test.
  *
