@@ -88,4 +88,4 @@ amber.png  cunit  emerald.png  gcov.css  glass.png  index.html  index-sort-f.htm
 # 参考资料
 
 1. CUnit官网：http://cunit.sourceforge.net/
-2. 
+2. 第五章 UT单元测试——CUnit框架学习_zmkzmkok的博客-程序员资料_ut测试框架 : http://www.4k8k.xyz/article/zmkzmkok/115012238#1_49
