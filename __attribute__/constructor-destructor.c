@@ -6,6 +6,7 @@
 // gcc -Wall constructor-destructor.c -D ON
 // 函数在main函数开始执行之前执行
 static void start(void) __attribute__ ((constructor));
+// gcc -Wall constructor-destructor.c
 // 函数在main函数执行结束之后执行
 static void stop(void) __attribute__ ((destructor));
 #else
